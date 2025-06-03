@@ -20,7 +20,7 @@ Este é um projeto simples de **formulário de login responsivo** desenvolvido c
 
 ## 💡 Objetivo
 
-Este projeto foi criado com fins educativos e serve como demonstração de habilidades básicas em desenvolvimento front-end. Pode ser utilizado como base para formulários mais complexos, com integração futura com JavaScript ou back-end.
+Este projeto foi criado com fins educativos e serve como demonstração de habilidades básicas em desenvolvimento front-end. 
 
 ## 🚀 Como visualizar
 
