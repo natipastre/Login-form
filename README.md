@@ -25,10 +25,12 @@ Este projeto foi criado com fins educativos e serve como demonstração de habil
 ## 🚀 Como visualizar
 
 🔗 Acesse a versão online do projeto:  
-👉 [https://natipastre.github.io/Login-form/](https://natipastre.github.io/Login-form/)
+👉 [Clique aqui para ver o projeto](https://natipastre.github.io/Login-form/)
 
 Ou, se preferir:
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/natipastre/Login-form.git
+   
+LinkedIn https://www.linkedin.com/in/natalia-pastre/
