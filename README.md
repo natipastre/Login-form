@@ -5,7 +5,7 @@ Este é um projeto simples de **formulário de login responsivo** desenvolvido c
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/ZRq9mvW5/formulario.png" alt="Formulário de Login - prévia do projeto" width="600"/>
+  <img src="https://i.postimg.cc/ZRq9mvW5/formulario.png" alt="Formulário de Login - prévia do projeto" width="400"/>
 </p>
 
 ---
