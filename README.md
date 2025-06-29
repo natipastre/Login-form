@@ -10,6 +10,16 @@ Este é um projeto simples de **formulário de login responsivo** desenvolvido c
 
 ---
 
+## 💡 Sobre o projeto
+
+Este formulário de login foi desenvolvido com foco em proporcionar uma interface intuitiva, moderna e acessível para o usuário. Além de aplicar conhecimentos técnicos de **HTML5** e **CSS3**, utilizei práticas importantes como semântica correta, responsividade e animações suaves para melhorar a experiência visual.
+
+O projeto serve como uma base sólida para formulários de autenticação, podendo ser facilmente integrado em projetos maiores com funcionalidades dinâmicas posteriormente. Foi uma excelente oportunidade para reforçar conceitos fundamentais do desenvolvimento front-end, como estruturação semântica, estilização avançada e design adaptativo para diferentes dispositivos.
+
+Com esse projeto, ampliei minha capacidade de criar interfaces funcionais e visualmente atraentes, essenciais para a construção de aplicações web profissionais.
+
+---
+
 ## 🧩 Tecnologias utilizadas
 
 - HTML5  
@@ -30,12 +40,6 @@ Este é um projeto simples de **formulário de login responsivo** desenvolvido c
 
 ---
 
-## 💡 Objetivo
-
-Este projeto foi criado com fins educativos e serve como demonstração de habilidades básicas em desenvolvimento front-end.  
-
----
-
 ## 🚀 Como visualizar
 
 🔗 Acesse a versão online do projeto:  
@@ -46,3 +50,4 @@ Ou, se preferir:
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/natipastre/Login-form.git
+
