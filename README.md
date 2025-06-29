@@ -20,6 +20,11 @@ Com esse projeto, ampliei minha capacidade de criar interfaces funcionais e visu
 
 ---
 
+## 🚀 Como visualizar
+
+🔗 Acesse a versão online do projeto:  
+👉 [Clique aqui para ver o projeto](https://natipastre.github.io/Login-form/)
+
 ## 🧩 Tecnologias utilizadas
 
 - HTML5  
@@ -40,10 +45,7 @@ Com esse projeto, ampliei minha capacidade de criar interfaces funcionais e visu
 
 ---
 
-## 🚀 Como visualizar
 
-🔗 Acesse a versão online do projeto:  
-👉 [Clique aqui para ver o projeto](https://natipastre.github.io/Login-form/)
 
 Ou, se preferir:
 
