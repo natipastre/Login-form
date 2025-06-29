@@ -2,13 +2,23 @@
 
 Este é um projeto simples de **formulário de login responsivo** desenvolvido com **HTML5 e CSS3**, com foco em boas práticas de semântica, acessibilidade e design moderno.
 
+✨ Veja abaixo uma prévia do projeto:
+
+<p align="center">
+  <img src="https://i.postimg.cc/ZRq9mvW5/formulario.png" alt="Formulário de Login - prévia do projeto" width="600"/>
+</p>
+
+---
+
 ## 🧩 Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
 - Responsividade com media queries  
 - Animações com `@keyframes`  
-- Gradiente de fundo e efeitos visuais
+- Gradiente de fundo e efeitos visuais  
+
+---
 
 ## 🎨 Funcionalidades
 
@@ -16,11 +26,15 @@ Este é um projeto simples de **formulário de login responsivo** desenvolvido c
 - Campos com efeitos ao focar  
 - Animação suave na entrada do formulário  
 - Layout adaptável para dispositivos móveis  
-- Design moderno com gradiente de fundo
+- Design moderno com gradiente de fundo  
+
+---
 
 ## 💡 Objetivo
 
-Este projeto foi criado com fins educativos e serve como demonstração de habilidades básicas em desenvolvimento front-end. 
+Este projeto foi criado com fins educativos e serve como demonstração de habilidades básicas em desenvolvimento front-end.  
+
+---
 
 ## 🚀 Como visualizar
 
@@ -29,8 +43,6 @@ Este projeto foi criado com fins educativos e serve como demonstração de habil
 
 Ou, se preferir:
 
-1. Clone o repositório:
+1. Clone o repositório:  
    ```bash
    git clone https://github.com/natipastre/Login-form.git
-   
-LinkedIn https://www.linkedin.com/in/natalia-pastre/
